@@ -1,0 +1,85 @@
+#product, #resources, #services, #offers {
+    display: inline;
+    color: #323232;
+    margin-left: 17px;
+    font-size: 18px;
+    font-family: inter;
+    font-style: normal;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+#nextMove {
+    margin-left: 80px;
+    margin-right: 105px;
+    cursor: pointer;
+}
+
+#contactUs {
+    border: 1px solid #AC00FF;
+    color: #AC00FF;
+    border-radius: 8px;
+    padding: 8px 16px;
+    margin-left: 105px;
+    cursor: pointer;
+}
+
+#contactUs:hover {
+    background-color: #AC00FF;
+    color: white;
+}
+
+#simple {
+    width: 866px;
+}
+
+h1 {
+    margin-left: 150px;
+    margin-top: 80px;
+    font-size: 64px;
+    font-family: impact, sans-serif;
+    font-weight: 100;
+    width: 720px;
+    color: #323232;
+}
+
+#money {
+    margin-left: 150px;
+    font-size: 24px;
+    font-family: "Inria Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #323232;
+    width: 100%;
+}
+
+#joinNow {
+    margin-left: 150px;
+    width: 204px;
+    height: 54px;
+    background-color: #6741c6;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+
+a {
+    color: #4D3491;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+#play {
+    margin-bottom: -10px;
+    margin-left: 23px;
+    margin-right: 12px;
+}
+
+#cards {
+    margin-left: 370px;
+    display: block;
+}
